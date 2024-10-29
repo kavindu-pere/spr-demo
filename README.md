@@ -27,6 +27,12 @@ To get started with the SPR Demo project, follow these steps:
     ```bash
     ./mvnw clean install
     ```
+To run the tests, use the following command:
+```bash
+./mvnw test
+```
+This will execute the unit tests and ensure that everything is working correctly.
+
 
 ## Usage
 To run the application, use the following command:
