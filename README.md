@@ -27,7 +27,7 @@ To get started with the SPR Demo project, follow these steps:
     ```bash
     ./mvnw clean install
     ```
-To run the tests, use the following command:
+4. To run the tests, use the following command:
 ```bash
 ./mvnw test
 ```
